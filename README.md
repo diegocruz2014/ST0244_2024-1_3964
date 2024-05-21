@@ -40,3 +40,5 @@ Samuel Molina Echeverri -> smolinae2@eafit.edu.co
 Jaider España Paternina -> jespanap@eafit.edu.co
 
 Juan Jose Vargas Lopera -> jjvargasl@eafit.edu.co
+
+Felipe Giraldo Neira -> fgiraldon@eafit.edu.co
